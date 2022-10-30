@@ -3,3 +3,6 @@ hotfix2
 hotfix3
 hotfix4
 hotfix5
+hotfix6
+hotfix7
+hotfix8
